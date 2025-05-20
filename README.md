@@ -8,7 +8,6 @@ Just to understand how commit works.
 <H6>
 By Akhil
 </H6>
-<br>
 <H6>
 student
 </H6>
